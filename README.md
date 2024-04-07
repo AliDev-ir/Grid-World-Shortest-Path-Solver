@@ -83,10 +83,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 # Connection
 
 Email : Ali@alidev.ir
-Website : AliDev.ir
-Telegram : t.me/Ali_Dev_ir
-Linkdin : https://lnkd.in/dDaqQE4S
-Github : github.com/AliDev-ir
-Instagram : instagram.com/Ali_Vaez79
-```
+
+Website : [AliDev.ir] (https://www.AliDev.ir)
+
+Telegram : [AliDev-IR](https://t.me/AliDev_IR)
+
+Linkdin : [Ali Vaez](https://www.linkedin.com/in/ali-vaez-568436298)
+
+Github : [AliDev-IR](https://github.com/AliDev-ir)
+
+Instagram : [Ali_Vaez79](https://instagram.com/Ali_Vaez79)
+
 
