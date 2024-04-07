@@ -84,7 +84,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Email : Ali@alidev.ir
 
-Website : [AliDev.ir] (https://www.AliDev.ir)
+Website : [AliDev.ir](https://www.AliDev.ir)
 
 Telegram : [AliDev-IR](https://t.me/AliDev_IR)
 
