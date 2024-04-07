@@ -28,7 +28,7 @@ Sure, I can provide you with some explanations and a README file for your code. 
 - It explores paths in a depth-first manner, but limits the search depth at each iteration to avoid infinite loops and ensure optimality.
 - This algorithm is useful for scenarios where the search space is large and memory usage needs to be controlled, as it only stores the current path in memory.
 
-```
+
 # Shortest Path Finder
 
 This repository contains Python implementations of BFS (Breadth First Search) and IDFS (Iterative Deepening Depth First Search) algorithms to find the shortest path in an 8x8 grid world with obstacles.
